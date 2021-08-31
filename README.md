@@ -2,7 +2,7 @@
 - 👀 I’m interested in Distributed Systems
 - 🌱 I’m currently learning network security in containerzied applications
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me @deshawares
+- 📫 Check my portfolio at deshaware.github.io
 
 <!---
 deshaware/deshaware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
