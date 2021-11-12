@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <br/>
-Senior Software Engineering | Data Structures & Algorithms | Data Science | Data Engineer | Tech Enthusiast
+Senior Software Engineer | Data Scientist | Data Engineer | Tech Enthusiast
 
 <h3>
   Skills 💼
