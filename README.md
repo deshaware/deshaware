@@ -76,7 +76,7 @@ Senior Software Engineer | Data Scientist | Data Engineer | Tech Enthusiast
   <li><a href="https://github.com/deshaware/Streamy">Streamy | Youtube Clone </a></li>
   <li><a href="https://github.com/deshaware/dms"> Document Management System | Backend Application with Swagger Documentation</a></li>
   <li><a href="https://github.com/deshaware/sentiment-analysis">COVID-19 Vaccine Sentiment Analysis | Twitter API </a></li>
-  <li><a href="https://github.com/deshaware/movie"> Movies Backend Database | Test Project/a></li>
+  <li><a href="https://github.com/deshaware/movie"> Movies Backend Database | Test Project </li>
 </ul>
 
 
