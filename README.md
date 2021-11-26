@@ -79,7 +79,6 @@ Senior Software Engineer | Data Scientist | Data Engineer | Tech Enthusiast
   <li><a href="https://github.com/deshaware/movie"> Movies Backend Database | Test Project </li>
 </ul>
 
-
 <h3>
   GitHub Stats 📊
 </h3>
