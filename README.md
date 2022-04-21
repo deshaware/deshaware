@@ -77,7 +77,6 @@ Senior Software Engineer | Data Scientist | Data Engineer | Tech Enthusiast
   <li><a href="https://github.com/deshaware/sentiment-analysis">COVID-19 Vaccine Sentiment Analysis | Twitter API </a></li>
   <li><a href="https://github.com/deshaware/movie"> Movies Backend Database | Test Project </li>
 </ul>
-
 <h3>
   GitHub Stats 📊
 </h3>
