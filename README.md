@@ -16,18 +16,18 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <br/>
-Senior Software Engineer | Data Scientist | Data Engineer | Tech Enthusiast
+Senior Software Engineer | Data Scientist | AI Engineer | Tech Enthusiast
 
 <h3>
   Skills 💼
 </h3>
 <h4>Programming Languages</h4>
 <p>
+  <img src="https://img.shields.io/badge/Go-00599C?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00599C?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   
 </p>
@@ -35,13 +35,12 @@ Senior Software Engineer | Data Scientist | Data Engineer | Tech Enthusiast
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Redux-14354C?style=for-the-badge&logo=redux&logoColor=green">
-  
-  
 
 </p>
 <h4>Backend Development</h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=golang&logoColor=white">
   <img src="https://img.shields.io/badge/Moleculer-092E20?style=for-the-badge&logo=Moleculer&logoColor=green">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-092E20?style=for-the-badge&logo=postgresql&logoColor=white">
