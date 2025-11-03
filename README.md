@@ -8,9 +8,9 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 - 👋 Hi, I’m Swapnil Deshaware<br/>
-- 💻 Software Engineer at Amazon<br/>
+- 💻 Software Engineer at Amazon Web Services<br/>
 - 📚 Master's in CS at Syracuse University<br/>
-- 💡 Interested in distributed systems, building models, internet security and machine learning<br/>
+- 💡 Interested in distributed systems, develop networking protocols building models, internet security and machine learning<br/>
 - 👀 I’m looking to collaborate on backend applications and system programming<br/>
 - 📫 Check my portfolio at deshaware.github.io<br/>
 
